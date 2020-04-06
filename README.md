@@ -1,13 +1,13 @@
 # GameProgramming2 Final
  Game Programming 2 Final Template
 
-Game Name:  
-Description Short:  
-Description Long:
+Game Name:  WIP
+Description Short:  Defend your base from attacking hordes.
+Description Long: Using different types of defenses, protect your base from the attacking robot army. Defenses range from simple missles to time warping barriers. Send out your drones to collect materials from the robots you killed to create more defenses.
 
-Genre:
+Genre: Tower Defense
 
-Platform:
+Platform: Windows, Browser
 
 Folder Sturcture
 
